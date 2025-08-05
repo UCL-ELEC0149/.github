@@ -2,8 +2,8 @@
 # 👋 Welcome to ELEC0149: Introduction to Machine Learning
 
 This GitHub Organisation hosts the practical content, assignments, and resources for **ELEC0149: Introduction to Machine Learning**, a course offered by University College London.  
-📚 [View the course on the UCL module catalogue](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-machine-learning-ELEC0149)
-🗓️ [View the course on the UCL timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=ELEC0149&acadYearFl=N)
+- 📚 [View the course on the UCL module catalogue](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-machine-learning-ELEC0149)
+- 🗓️ [View the course on the UCL timetable](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=ELEC0149&acadYearFl=N)
 
 ---
 
