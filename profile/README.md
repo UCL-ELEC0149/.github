@@ -1,3 +1,4 @@
+![](ucl-logo.svg)
 # 👋 Welcome to ELEC0149: Introduction to Machine Learning
 
 This GitHub Organisation hosts the practical content, assignments, and resources for **ELEC0149: Introduction to Machine Learning**, a course offered by University College London.  
